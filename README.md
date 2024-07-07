@@ -32,7 +32,7 @@ Greetings! I'm Nasrin Bano, a passionate Data Science Intern with a comprehensiv
 
 <h3 align="center">
   
- 🔭 I’m currently working on **Data Science Projecs**
+ 🔭 I’m currently working on **Data Science Projects**
 
  🌱 I’m currently learning **Advance Data Science and AI**
 
