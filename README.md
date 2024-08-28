@@ -5,8 +5,6 @@
 <h1 align="center">
     <a href="https://www.linkedin.com/in/nasrinshaikh/">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Nasrin+Bano+👩🏼‍💻;" />
-    <img 
-src="https://camo.githubusercontent.com/a69ef1e4a173201181c22ac940c8b17935229d4d45ac5276631cbf4ba3d21db4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" />   
     </a>
 </h1>
 
@@ -29,7 +27,8 @@ Greetings! I'm Nasrin Bano, a passionate Data Analyst Intern with a comprehensiv
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://github.com/amanmodanwal28/amanmodanwal28/blob/main/aman2GIF.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmodanwal28&label=Profile%20views&color=0e75b6&style=flat" alt="amanmodanwal28" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img 
+src="https://camo.githubusercontent.com/a69ef1e4a173201181c22ac940c8b17935229d4d45ac5276631cbf4ba3d21db4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" />   
 ###
 
 <h3 align="center">
