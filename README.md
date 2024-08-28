@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h2 align="center">A passionate Data Analyst from India</h2>
 
 ###
 
