@@ -29,8 +29,8 @@ Greetings! I'm Nasrin Bano, a passionate Data Analyst Intern with a comprehensiv
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 
-- Classic Style Work
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" width="600">
+<h3 align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" height="600" width="1200">
 <br><br>
 
 - Floating Work Structure
