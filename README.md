@@ -25,7 +25,7 @@ Greetings! I'm Nasrin Bano, a passionate Data Analyst Intern with a comprehensiv
 ###
 
 <h3 align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" height="600" width="1200">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" height="500" width="1200">
   
 ###
 
