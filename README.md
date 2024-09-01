@@ -55,14 +55,14 @@ Hello, I am Nasrin Bano, a passionate Data Analyst Intern at Learnbay with exper
 
   <div align="center"><h3 align="center">Backend</h3> 
     <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" align="center" alt="python">
-    <img src="https://img.shields.io/badge/machine%20learning-%23000000.svg?style=for-the-badge&logo=machine-learning&logoColor=white" align="center" alt="machine learning">
     <img src="https://img.shields.io/badge/statistics-%23150458.svg?style=for-the-badge&logo=statistics&logoColor=white" align="center" alt="statistics">
+    <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white" align="center" alt="SQL">
  </div>
 
  ###
 
   <br/>
-  <div align="center"><h3 align="center">Data Science Libraries</h3> 
+  <div align="center"><h3 align="center">Data Analytics/Science Libraries</h3> 
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" align="center" alt="pandas">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" align="center" alt="numpy">
     <img src="https://img.shields.io/badge/matplotlib-%23E34F26.svg?style=for-the-badge&logo=matplotlib&logoColor=white" align="center" alt="matplotlib">
@@ -80,25 +80,11 @@ Hello, I am Nasrin Bano, a passionate Data Analyst Intern at Learnbay with exper
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub">
     <img src="https://img.shields.io/badge/Anaconda-%2343B02A.svg?style=for-the-badge&logo=anaconda&logoColor=white" align="center" alt="Anaconda">
     <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" align="center" alt="PyCharm">
+    <img src="https://img.shields.io/badge/Power%20BI-%230B88CE.svg?style=for-the-badge&logo=power-bi&logoColor=white" align="center" alt="Power BI"> 
 </div>
    <br/>
 
 ###
-
-<div align="center">
-  <h3 align="center">Current Learning Journey</h3>
-  <img src="https://img.shields.io/badge/Power%20BI-%230B88CE.svg?style=for-the-badge&logo=power-bi&logoColor=white" align="center" alt="Power BI">
-  <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white" align="center" alt="SQL">
-  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" align="center" alt="Tableau">
-  <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Big%20Data%20%26%20Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" align="center" alt="Big Data & Apache 
-  Spark">
-  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=deep-learning&logoColor=white" align="center" alt="Deep Learning">
-  <img src="https://img.shields.io/badge/NLP-%23276DC3.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white" align="center" alt="Natural Language Processing">
-  <img src="https://img.shields.io/badge/Cloud%20Development-%234EA4A4.svg?style=for-the-badge&logo=cloud&logoColor=white" align="center" alt="Cloud Development">
-</div>
-
-### 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
