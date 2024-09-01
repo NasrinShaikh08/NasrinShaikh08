@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">
+<h8 align="center">
 Hello, I am Nasrin Bano, a passionate Data Analyst Intern at Learnbay with experience from October 2023 to the present, focusing on data analysis and statistics. I am dedicated to continuous learning and staying updated on industry trends through this internship. I am eager to connect with professionals in the data analytics field to explore collaborations and further my expertise.
 
 ###
