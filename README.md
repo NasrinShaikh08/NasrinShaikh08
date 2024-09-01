@@ -14,7 +14,7 @@
 
 ###
 
-Greetings! I'm Nasrin Bano, a passionate Data Analyst Intern with a comprehensive 5-month journey at Learnbay, where I'm actively involved in honing my skills and knowledge in the dynamic field of data science. During my internship, I've been immersed in tasks ranging from data analysis to machine learning, constantly expanding my expertise. The challenges encountered and lessons learned have fueled my enthusiasm for continuous learning. Outside the realm of data science, I strive to stay updated on industry trends through online courses and engage with the community. My commitment to personal and professional growth aligns with my belief in the transformative power of data. Feel free to connect with me on LinkedIn to delve deeper into my journey and explore potential collaborations. I'm excited about the possibilities within the data science landscape and look forward to connecting with like-minded professionals
+Hello, I am Nasrin Bano, a passionate Data Analyst Intern at Learnbay with experience from October 2023 to the present, focusing on data analysis and statistics. I am dedicated to continuous learning and staying updated on industry trends through this internship. I am eager to connect with professionals in the data analytics field to explore collaborations and further my expertise.
 
 ###
 
