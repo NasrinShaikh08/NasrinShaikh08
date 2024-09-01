@@ -25,9 +25,9 @@ Hello, I am Nasrin Bano, a passionate Data Analyst Intern at Learnbay with exper
 
 <h3 align="center">
   
- 🔭 I’m currently working on **Data Science Projects**
+ 🔭 I’m currently working on **Data Analysis Projects**
 
- 🌱 I’m currently learning **Advance Data Science and AI**
+ 🌱 I’m currently learning **Advance Data Analysis**
 
  👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/nasrinshaikh/">LinkedIn</a> & GitHub**
 
