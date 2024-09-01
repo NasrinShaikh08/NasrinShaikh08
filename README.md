@@ -18,12 +18,6 @@ Hello, I am Nasrin Bano, a passionate Data Analyst Intern at Learnbay with exper
 
 ###
 
-<h1 align="center">
-  Thanks for visiting!
-</h1>
-
-###
-
 <h3 align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" height="500" width="1200">
   
@@ -117,3 +111,7 @@ Hello, I am Nasrin Bano, a passionate Data Analyst Intern at Learnbay with exper
  <div align="center">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nasrinshaikh08&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
 </div>
+
+<h1 align="center">
+  Thanks for visiting!
+</h1>
